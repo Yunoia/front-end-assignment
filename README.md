@@ -16,7 +16,7 @@ Your coding test assignment and goals are:
 4. Upload your source codes to GitHub
 5. And Send the link to us - nikolai.b@protagonist.gg
 
-Should you have any question or ideas how we can improve your assignment - fell free to create an [issue](https://github.com/Yunoia/ui-coder-assignment/issues/new)
+Should you have any question or ideas how we can improve this assignment - fell free to create an [issue](https://github.com/Yunoia/ui-coder-assignment/issues/new)
 
 Good Luck!
 
