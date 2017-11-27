@@ -16,7 +16,7 @@ ____
 Your coding test assignment and goals are:
 1. Click this link -> https://projects.invisionapp.com/share/SJEN0CKUG#/screens
 2. Review the app - you should be able to access “inspect mode” to see all the sizes and colors
-3. Implement this design using any technologies you like (SASS/LESS/SCSS are prefered over simple CSS yet not obligatory). So  you have complitly freedom here.
+3. Implement this design using any technologies you like (SASS/LESS/SCSS are prefered over simple CSS yet not obligatory). So  you have complete freedom here.
    * All assets are downloadable in inspect mode
    * Feel free to use ipsum lorem / random image generators. 
    * Masonry grid is a big plus, but not required
