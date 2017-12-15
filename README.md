@@ -14,7 +14,7 @@ The goal of the test below is to evaluate your super pow...oups, sorry I mean yo
 ____
 
 Your coding test assignment and goals are:
-1. Click this link -> https://projects.invisionapp.com/d/main#/projects/prototypes/12685688
+1. Click this link -> https://projects.invisionapp.com/d/main#/projects/prototypes/12669051
 2. Review the app - you should be able to access “inspect mode” to see all the sizes and colors
 3. Implement this design using any technologies you like (SASS/LESS/SCSS are prefered over simple CSS yet not obligatory). So  you have complete freedom here.
    * All assets are downloadable in inspect mode
