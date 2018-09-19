@@ -19,7 +19,7 @@ Your coding test assignment and goals are:
 3. Implement this design using any technologies you like (SASS/LESS/SCSS are prefered over simple CSS yet not obligatory). So  you have complete freedom here.
    * All assets are downloadable in inspect mode
    * Feel free to use ipsum lorem / random image generators. 
-   * Functional gallery is not required ut will e a big plus
+   * Functional gallery is not required but will be a big plus
 4. Upload your source codes to GitHub
 5. And Send the link to us - nikolai.b@protagonist.gg
 
