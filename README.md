@@ -3,7 +3,7 @@
 [logo]: https://www.startupjobs.cz/upload/startup/5194/profile/new153682083632.png
 
 
-# UI/Coding test assignment
+# Front-end assignment
 ____
 Congratulations! You have just passed our first round of interview and you are interested in our project. This is awesome!
 Yet this is just the beginning 😉 We care a lot about our people and we do our best to make sure everyone joining the team is raising the bar.  
